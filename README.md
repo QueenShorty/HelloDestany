@@ -5,7 +5,7 @@ This application allows users to custom change the text, change the color of the
 of the background, and has a set defult text displayed if user decides to not change the text.
 
 ### App Walk-through
-![Walk-through](https://i.imgur.com/GzYJVKe.mp4)
+![Walk-through](https://imgur.com/a/1BR2hzw)
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
